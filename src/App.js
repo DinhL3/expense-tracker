@@ -6,27 +6,45 @@ import NewExpense from './components/NewExpense/NewExpense';
 const DUMMY_EXPESES = [
   {
     id: 'e1',
-    title: 'Toilet Paper',
-    amount: 94.12,
-    date: new Date(2022, 7, 14),
+    title: 'Rent',
+    amount: 311.46,
+    date: new Date(2023, 1, 3),
   },
   {
     id: 'e2',
-    title: 'New TV',
-    amount: 799.49,
-    date: new Date(2021, 2, 12)
+    title: 'Cuckoo Chicken Wings',
+    amount: 8.9,
+    date: new Date(2023, 1, 2)
   },
   {
     id: 'e3',
-    title: 'Car Insurance',
-    amount: 294.67,
+    title: 'Video Player App',
+    amount: 5.49,
     date: new Date(2022, 2, 28),
   },
   {
     id: 'e4',
-    title: 'New Desk (Wooden)',
-    amount: 450,
-    date: new Date(2022, 5, 12),
+    title: 'Flight tickets',
+    amount: 185.56,
+    date: new Date(2022, 12, 20),
+  },
+  {
+    id: 'e5',
+    title: 'Vegan Wok',
+    amount: 14,
+    date: new Date(2021, 11, 9),
+  },
+  {
+    id: 'e6',
+    title: 'Bank fee',
+    amount: 4.65,
+    date: new Date(2021, 7, 20),
+  },
+  {
+    id: 'e7',
+    title: 'Monthly tram card',
+    amount: 42,
+    date: new Date(2021, 5, 5),
   },
 ];
 
