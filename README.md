@@ -1,2 +1,1 @@
-# expense-tracker
-# expense-tracker
+A simple expense tracker created with React
