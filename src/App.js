@@ -18,7 +18,7 @@ const DUMMY_EXPESES = [
   },
   {
     id: 'e3',
-    title: 'Video Player App',
+    title: 'Video game',
     amount: 5.49,
     date: new Date(2022, 2, 28),
   },
